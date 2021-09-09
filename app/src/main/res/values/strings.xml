@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="adding_contacts">adding contacts</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add contact</string>
+    <string name="added_contact">Successfully added contact</string>
+    <string name="error">%1$s</string>
+    <string name="update_contact">Update contact</string>
+    <string name="update">Update</string>
+    <string name="swipe_left_to_delete_a_contact">Swipe Left to delete a contact</string>
+    <string name="swipe_right_to_update_a_contact">Swipe Right to update a contact</string>
+</resources>
